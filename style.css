@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+    margin:auto;
+    justify-content: center;
+    padding-left: 3%;
+    
+    
+    
+}
+
+img {
+        display: inline-block;
+        padding: 5px;
+        width: 30%;
+        height: auto;
+        margin: 1px;
+        justify-content: center;
+        
+    }
+
+nav{
+
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+}
+
+    
+    
